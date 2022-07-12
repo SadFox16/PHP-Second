@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7acc459d-245f-404d-97ca-bec0e3b1243b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/.styleci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/app/Console/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/app/Exceptions/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/app/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/app/Http/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/app/Http/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/app/Http/Middleware/PreventRequestsDuringMaintenance.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/app/Http/Middleware/TrimStrings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/app/Http/Middleware/TrustHosts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/app/Http/Middleware/TrustProxies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/app/Models/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/app/Providers/AppServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/app/Providers/AuthServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/app/Providers/EventServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/app/Providers/RouteServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/artisan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/bootstrap/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/bootstrap/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/config/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/config/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/config/broadcasting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/config/cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/config/cors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/config/filesystems.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/config/hashing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/config/logging.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/config/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/config/queue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/config/sanctum.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/config/services.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/config/session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/config/view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/database/factories/UserFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/database/seeders/DatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/lang/en/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/lang/en/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/lang/en/passwords.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/lang/en/validation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/public/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/resources/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/resources/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/resources/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/routes/channels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/routes/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/storage/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/storage/app/public/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/storage/framework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/storage/framework/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/storage/framework/cache/data/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/storage/framework/sessions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/storage/framework/testing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/storage/framework/views/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/storage/logs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/tests/CreatesApplication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/tests/Feature/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/tests/TestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/tests/Unit/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpsecond/vite.config.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Bqcwwa8ZpP6JRLnbyXeV80stnU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/phpsecond/app/Http/Controllers/Api/v1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7acc459d-245f-404d-97ca-bec0e3b1243b" name="Changes" comment="" />
+      <created>1657637297854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657637297854</updated>
+      <workItem from="1657637298982" duration="4153000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
